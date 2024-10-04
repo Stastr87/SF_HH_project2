@@ -2,3 +2,6 @@
 /db_scheme.png
 /tasks.ipynb
 /test.ipynb
+db_params.py
+__pycache__/connection_params.cpython-310.pyc
+__pycache__/db_params.cpython-310.pyc
